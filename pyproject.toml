@@ -1,0 +1,5 @@
+[tool.documatic]
+name = Blackpink-Data
+srcdir = .
+package = .
+docname = "README"
